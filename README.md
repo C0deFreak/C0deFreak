@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @C0deFreak
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning game development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://code-freak-studios.itch.io/
