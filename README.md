@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @C0deFreak
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://code-freak-studios.itch.io/
+- 👀 I’m interested in Python and game development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 Reach me on discord: Code Freak#2659
+- Feel free to pull requests on my project, I am trying to learn
+- P.S. comments in my code are not in English because it isn't my main language
