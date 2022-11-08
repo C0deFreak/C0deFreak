@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @C0deFreak
-- 👀 I’m interested in Python and game development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 Reach me on discord: Code Freak#2659
-- Feel free to pull requests on my project, I am trying to learn
-- P.S. comments in my code are not in English because it isn't my main language
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1141571/screenshots/3978202/dribbble_4.gif">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/HorrorFreakOfficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
