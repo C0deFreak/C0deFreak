@@ -1,7 +1,4 @@
-<div id="header" align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1141571/screenshots/3978202/dribbble_4.gif">
-</div>
----
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1141571/screenshots/3978202/dribbble_4.gif">
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C0deFreak&theme=dark&background=000000)](https://git.io/streak-stats)
