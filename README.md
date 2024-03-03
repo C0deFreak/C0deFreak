@@ -2,7 +2,7 @@
 
 ### 👉 About me:
 Hi there👋 I'm C0deFreak,
-I'm an beginner programmer in Python🐍 working on interesting projects🔍
+I'm an beginner programmer in Python🐍 working on interesting projects🔍. Right now I am focusing on web and mobile development using Flask framework.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C0deFreak&theme=dark&background=000000)](https://git.io/streak-stats)
